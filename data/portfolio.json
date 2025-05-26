@@ -1,0 +1,144 @@
+{
+    "name": "Sahil Kapoor",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Sahil Kapoor - a Full Stack",
+    "headerTaglineThree": "Web Developer",
+    "headerTaglineFour": " based in Gurugram, India.",
+    "showBlog": false,
+    "darkMode": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/sahilLikes2Code"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sahil044/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "https://x.com/Sahil044"
+        },
+        {
+            "id": "4",
+            "title": "Blog",
+            "link": "https://medium.com/@sahil.kapoor440"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:sahil.kapoor440@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "StunningWeb",
+            "description": "Agency Website",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748281876/9bf816e7-78b9-442a-a467-dc3ccb6f4253.png",
+            "url": "http://stunningweb.site/"
+        },
+        {
+            "id": "2",
+            "title": "Bagga International",
+            "description": "Portfolio Website",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748281851/8c13dd8b-3a52-449b-9707-3fb15bf4e9d2.png",
+            "url": "https://bagga-int-in-progress.netlify.app/"
+        },
+        {
+            "id": "3",
+            "title": "Onthewatch",
+            "description": "Magzine/Blog Website",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748281783/4a447797-78c2-47ef-ae4b-6fc3fddf9756.png",
+            "url": "http://onthewatch.net/"
+        },
+        {
+            "id": "4",
+            "title": "Direct Chat",
+            "description": "WhatsApp Utility Tool",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748280660/b5bd5d6d-1a89-4a45-9146-9f374b46e31a.png",
+            "url": "http://directchat.site/"
+        },
+        {
+            "id": "5",
+            "title": "Chotti Udaan ",
+            "description": "Ngo Website",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748280628/14418355-fb1f-4f28-934e-99e9f1ea1aba.png",
+            "url": "https://chotti-udaan.netlify.app/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Web Development",
+            "description": "Custom web applications built with cutting-edge technologies. We create responsive, scalable, and high-performance solutions tailored to your business needs, ensuring seamless user experiences across all devices."
+        },
+        {
+            "id": "2",
+            "title": "Mobile Apps",
+            "description": "Native and cross-platform mobile applications designed for iOS and Android. We develop user-friendly, feature-rich apps that provide seamless mobile experiences and help you reach your audience on any device."
+        },
+        {
+            "id": "3",
+            "title": "SEO & Content Creation",
+            "description": "Enhance your website's visibility and engage your audience with expert SEO strategies and high-quality content. We help you rank higher in search results and attract more visitors to your site."
+        },
+        {
+            "id": "4",
+            "title": "Maintenance & Support",
+            "description": "Ongoing website maintenance, updates, security patches, and technical support services. We ensure your website remains up-to-date and secure, providing peace of mind and uninterrupted service."
+        }
+    ],
+    "aboutpara": "I’m a full-stack developer passionate about building fast, scalable web apps with React, Node.js, and Ruby on Rails. I enjoy turning ideas into user-friendly solutions and thrive in both independent and team settings. Let’s create something great together!",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer, and maker.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": [
+                    "Worked on the frontend of a React application",
+                    "Worked on the frontend of a React application"
+                ]
+            },
+            {
+                "id": "2",
+                "dates": "March 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": [
+                    "Worked on the frontend of a React application"
+                ]
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    },
+    "showResume": false,
+    "showCursor": true
+}
