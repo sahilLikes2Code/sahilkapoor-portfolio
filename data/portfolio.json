@@ -65,9 +65,16 @@
         {
             "id": "5",
             "title": "Chotti Udaan ",
-            "description": "Ngo Website",
+            "description": "NGO Website",
             "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748280628/14418355-fb1f-4f28-934e-99e9f1ea1aba.png",
             "url": "https://chotti-udaan.netlify.app/"
+        },
+        {
+            "id": "90a35574-a8b0-4301-9002-3588b6a6f07f",
+            "title": "Bhumika Teaches",
+            "description": "Website For Teacher",
+            "imageSrc": "https://res.cloudinary.com/dya0thski/image/upload/v1748401458/6981c660-8292-4cbb-ad34-2cf9fedc0ae8.png",
+            "url": "https://bhumika-teaches.netlify.app/"
         }
     ],
     "services": [
